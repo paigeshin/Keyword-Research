@@ -1,5 +1,7 @@
+//키워드 중복값 없애줌.
+
 const fs = require('fs'); //fs - file system의 약자
-const rawKeywords = './data.txt';
+const rawKeywords = './rawData.txt';
 let keywordArr;
 
 let data = fs.readFileSync(rawKeywords, {encoding : "utf-8"});
