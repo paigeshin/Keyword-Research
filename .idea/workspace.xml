@@ -2,15 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f98739cd-cd49-4840-ac17-76666122005e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greatKerywordCounter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manually-sorted_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/manual-highly-searched-volume-keyword.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/maual-perfect-keyword.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/new.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/new_keyword/20_01_04/1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/new_keyword/20_01_04/2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/new_keyword/20_01_04/3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/new_keyword/20_01_04/4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/new_keyword/20_01_04/5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/new_keyword/20_01_04/6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/new_keyword/20_01_04/7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/search_volume/20_01_04/1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/search_volume/20_01_04/2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/search_volume/20_01_04/3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/search_volume/20_01_04/4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/search_volume/20_01_04/5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/search_volume/20_01_04/6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/search_volume/20_01_04/7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eat_sleep_burn/sortedRaw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/excel/9.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/new/Keyword Planner 01-08-2020 at 13-56-17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/raw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/selectedKeywords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ex_factor/sortedRaw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/SQLDatabase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/tebles.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getPerfectKeyword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getThousandData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/convert-csv-to-json/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/convert-csv-to-json/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/convert-csv-to-json/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/convert-csv-to-json/src/csvToJson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/convert-csv-to-json/src/util/fileUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/convert-csv-to-json/src/util/jsonUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/convert-csv-to-json/src/util/stringUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/strip-bom-stream/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/strip-bom-stream/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/strip-bom-stream/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateTable.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rawData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deleteSameValues.js" beforeDir="false" afterPath="$PROJECT_DIR$/deleteSameValues.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deleteSameValues.js" beforeDir="false" afterPath="$PROJECT_DIR$/addNewValue.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/description.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/newData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greatKerywordCounter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manually-sorted_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/eat_sleep_burn/selectedKeywords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backup/newData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readline/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readline/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readline/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readline/readline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readline/test/fixtures/afile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readline/test/fixtures/file-in-win1251.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readline/test/fixtures/nmbr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readline/test/test_readline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rawData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/eat_sleep_burn/rawData.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +86,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -29,8 +95,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VmwLOhCSZOCbbUNHI6rpMWmDef" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.14.0" />
@@ -44,6 +113,21 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/search_volume/20_01_04" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dictionary" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/ex_factor/excel" />
+      <recent name="$PROJECT_DIR$/data/ex_factor/new" />
+      <recent name="$PROJECT_DIR$/data/ex_factor" />
+      <recent name="$PROJECT_DIR$/database/excel" />
+      <recent name="$PROJECT_DIR$/data/eat_sleep_burn" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,17 +141,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.greatKerywordCounter.js">
-    <configuration name="deleteSameValues.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/deleteSameValues.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.getPerfectKeyword.js">
+    <configuration name="addNewValue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/addNewValue.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="getPerfectKeyword.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="getPerfectKeyword.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="getThousandData.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="getThousandData.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="greatKerywordCounter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="greatKerywordCounter.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="updateTable.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="updateTable.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.getPerfectKeyword.js" />
+        <item itemvalue="Node.js.updateTable.js" />
+        <item itemvalue="Node.js.addNewValue.js" />
+        <item itemvalue="Node.js.getThousandData.js" />
         <item itemvalue="Node.js.greatKerywordCounter.js" />
-        <item itemvalue="Node.js.deleteSameValues.js" />
       </list>
     </recent_temporary>
   </component>
@@ -83,6 +179,15 @@
       <updated>1577871522265</updated>
       <workItem from="1577871523366" duration="3809000" />
       <workItem from="1577967121495" duration="4228000" />
+      <workItem from="1578056550794" duration="20000" />
+      <workItem from="1578056573810" duration="12000" />
+      <workItem from="1578060580299" duration="639000" />
+      <workItem from="1578061368101" duration="5684000" />
+      <workItem from="1578067282960" duration="5729000" />
+      <workItem from="1578073304970" duration="7820000" />
+      <workItem from="1578115826911" duration="5037000" />
+      <workItem from="1578488139660" duration="4994000" />
+      <workItem from="1578493856897" duration="302000" />
     </task>
     <servers />
   </component>
@@ -101,5 +206,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
